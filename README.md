@@ -112,3 +112,18 @@ Oracle VirtualBox
 
 ---
 
+## Step 3: Import Kali Linux
+**The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.**
+
+*The VM network adapter was configured as follows:*
+
+| Adapter 1 | 
+|---|
+| Attached to: NAT Network |
+| Network:     NatNetwork |
+| Adapter Type: Intel PRO/1000 MT Desktop |
+
+The VM was allocated: 
+RAM: 2048 MB
+
+*A shared folder was enabled to allow convenient file exchange between the host system and the Kali Linux VM.*
