@@ -152,6 +152,7 @@ RAM: 2048 MB
 After completing the initial Kali Linux configuration, a VirtualBox snapshot was created to preserve the current system state.
 
 **Snapshot Name:** my fresh kali linux after installation
+<img src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/6.png?raw=true" />
 
 This snapshot serves as the baseline state of the lab. It allows the VM to be quickly restored if future experiments modify or disrupt the system configuration.
 
@@ -177,3 +178,74 @@ This snapshot serves as the baseline state of the lab. It allows the VM to be qu
 | IP Address | Gateway | Dns |
 | --- | --- | --- |
 | 10.0.0.3/24 |10.0.0.1 | 8.8.8.8 |
+
+---
+
+### ⚠️ Problems Encountered
+
+
+### Problem 1. Internet Connectivity After Static IP Configuration
+
+**After manually configuring the IPv4 settings, Internet connectivity may stop working due to NetworkManager or gateway configuration.**
+
+### Problem 2: DNS Resolution Failure
+
+**Problem: After configuring the network, the Kali Linux VM could reach IP addresses, but domain names were not resolving. This indicated an issue with the DNS configuration.**
+
+---
+
+## 🧠  What I Learned
+
+This project provided hands-on experience in building a basic cybersecurity lab using VirtualBox and Kali Linux.
+
+### 🌐 Networking
+
+Understood NAT and NAT Network configurations and how they enable communication between virtual machines.
+
+### 💻 Kali Linux
+
+Gained practical experience configuring IP addresses, gateways, subnet masks, and DNS.
+
+### 🔄 Recovery
+
+Learned how VM snapshots can be used to preserve a stable configuration and quickly recover from configuration issues.
+
+### 🛠️ Troubleshooting
+
+Practiced identifying and resolving common networking and DNS-related problems.
+
+### 📝 Documentation
+
+Improved my ability to document technical configurations, testing procedures, issues, and solutions in a structured manner.
+
+**Overall:** This project strengthened my understanding of **virtualization, networking, Linux administration, and cybersecurity lab practices**.
+
+---
+
+## 🔗 Tools & Resources
+
+* **VirtualBox:** https://virtualbox.org/wiki/Downloads
+* **Kali Linux:** https://kali.org/get-kali
+
+---
+
+## 👤 Author
+
+**Praveen Basava**
+Cybersecurity Intern | Networkwalks Academy — Batch B083
+
+**LinkedIn:** [www.linkedin.com/in/praveen-basava)
+
+---
+
+## 📌 Project Information
+
+| Details        | Information                          |
+| -------------- | ------------------------------------ |
+| **Program**    | Cybersecurity at Networkwalks        |
+| **Week**       | 01                                   |
+| **Project**    | Cybersecurity & Pentesting Lab Setup |
+
+---
+
+
