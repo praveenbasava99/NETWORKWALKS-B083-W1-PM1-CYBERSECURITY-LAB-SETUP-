@@ -87,4 +87,6 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 ## 🎞️ Lab Setup Procedure
 ### Step 1: Install VirtualBox
 
-Oracle VirtualBox was installed and configured as the hypervisor for the cybersecurity lab environment. VirtualBox provides the required virtualization platform for creating and managing multiple virtual machines.
+Oracle VirtualBox 
+<img width="147" height="147" alt="image" src="https://github.com/user-attachments/assets/c825631f-1e55-422b-973e-9aca73338105" />
+
