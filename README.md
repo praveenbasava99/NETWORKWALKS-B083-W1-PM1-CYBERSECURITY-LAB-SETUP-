@@ -134,15 +134,25 @@ RAM: 2048 MB
 
 **The Kali Linux network interface was configured with a static IPv4 address for consistent connectivity and easier identification within the lab.**
 
-| Example configuration : |
+| Configuration : |
 |---|
-| IP Address:    10.0.0.2 |
-| Subnet Mask:   255.255.255.0 |
+| IP Address:    10.0.0.3 |
+| Netmask:   24 |
 | Gateway:       10.0.0.1 |
 | DNS:           8.8.8.8 |
 
-<img width="1920" height="1080" alt="Kali Linux Network Settings" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/4-Screenshot-kali-linux.png?raw=true" />
+<img width="1920" height="1080" alt="Kali Linux Network Settings" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/5.png?raw=true" />
 
 *Using a consistent IP address simplifies network configuration and makes the Kali Linux machine easier to reference during future lab exercises.*
+
+---
+
+### Step 5: Create a Clean VM Snapshot
+
+After completing the initial Kali Linux configuration, a VirtualBox snapshot was created to preserve the current system state.
+
+**Snapshot Name:** my fresh kali linux after installation
+
+This snapshot serves as the baseline state of the lab. It allows the VM to be quickly restored if future experiments modify or disrupt the system configuration.
 
 ---
