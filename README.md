@@ -174,14 +174,6 @@ This snapshot serves as the baseline state of the lab. It allows the VM to be qu
 
 ### Example Results
 
-```
-IP Address:
-10.0.0.2/24
-
-Gateway:
-10.0.0.1
-
-DNS:
-8.8.8.8
-```
----
+| IP Address | Gateway | Dns |
+| --- | --- | --- |
+| 10.0.0.3/24 |10.0.0.1 | 8.8.8.8 |
