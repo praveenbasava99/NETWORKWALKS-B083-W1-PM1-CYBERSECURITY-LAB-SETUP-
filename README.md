@@ -63,8 +63,6 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 <img width="1920" height="1079" alt="1-Screenshot-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/1-Screenshot-VB-environment.png" />
 *Additional target machines can be added to the same **virtual network** in future projects, enabling more advanced cybersecurity testing and lab exercises.*
 
----
-
 ## 🛠️ Lab Configuration
 
 | 🧩 Component | ⚙️ Configuration |
@@ -126,7 +124,7 @@ Oracle VirtualBox
 The VM was allocated: 
 RAM: 2048 MB
 
-<img width="1920" height="1079" alt="3-Screenshot-kali-linux" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/3-Screenshot-kali-linux.png?raw=true" />
+<img width="1920" height="1079" alt="3-Screenshot-kali-linux" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/3-network%20adapter.png?raw=true" />
 
 *A shared folder was enabled to allow convenient file exchange between the host system and the Kali Linux VM.*
 
