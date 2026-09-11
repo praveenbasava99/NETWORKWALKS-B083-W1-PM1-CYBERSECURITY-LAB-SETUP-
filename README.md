@@ -130,4 +130,19 @@ RAM: 2048 MB
 
 ---
 
-### 4
+### Step 4: Configure the Kali Linux Network
+
+**The Kali Linux network interface was configured with a static IPv4 address for consistent connectivity and easier identification within the lab.**
+
+| Example configuration : |
+|---|
+| IP Address:    10.0.0.2 |
+| Subnet Mask:   255.255.255.0 |
+| Gateway:       10.0.0.1 |
+| DNS:           8.8.8.8 |
+
+<img width="1920" height="1080" alt="Kali Linux Network Settings" src="" />
+
+Using a consistent IP address simplifies network configuration and makes the Kali Linux machine easier to reference during future lab exercises.
+
+---
