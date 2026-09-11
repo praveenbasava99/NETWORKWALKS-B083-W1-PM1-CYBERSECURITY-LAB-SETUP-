@@ -84,9 +84,31 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 
 ---
 
-## 🎞️ Lab Setup Procedure
+## 🛡️ Lab Setup Procedure
 ### Step 1: Install VirtualBox
 
 Oracle VirtualBox 
 <img width="147" height="147" alt="image" src="https://github.com/user-attachments/assets/c825631f-1e55-422b-973e-9aca73338105" />
+
+---
+
+## Step 2: Configure the NAT Network
+
+**A dedicated NAT Network was created in VirtualBox to provide network connectivity between the virtual machines while maintaining outbound internet access.**
+
+**Network Configuration :**
+
+| *Parameter*	| *Configuration* |
+|---|---|
+| Network Name |	NatNetwork |
+| IPv4 Prefix |	10.0.0.0/24 |
+| DHCP | Enabled |
+| IPv6 |	Disabled |
+
+<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/5916e9911d3d95da72d72ed3981569991d2632a3/2-Screenshot-network-settings.png"
+/>
+
+*🌐 The NAT Network provides a shared virtual network in which the lab machines can communicate with each other. This creates the foundation for deploying and testing attacker and target systems in an isolated cybersecurity lab environment.*
+
+---
 
