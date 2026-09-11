@@ -237,7 +237,7 @@ https://kali.org/get-kali
 **Praveen Basava**
 Cybersecurity Intern | Networkwalks Academy — Batch B083
 
-**LinkedIn:** [www.linkedin.com/in/praveen-basava)
+**LinkedIn:** [www.linkedin.com/in/praveen-basava]
 
 ---
 
