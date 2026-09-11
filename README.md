@@ -55,3 +55,9 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 - Web application security testing
 - Penetration-testing practice
 - Cybersecurity tool evaluation
+
+---
+
+## ⚙️ Lab Architecture
+**The lab runs on Ubuntu Linux as the host operating system, with VirtualBox providing the virtualization platform. Kali Linux is deployed as a virtual machine and connected to a dedicated NAT Network for isolated and controlled cybersecurity testing.**
+<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="" />
