@@ -156,3 +156,30 @@ After completing the initial Kali Linux configuration, a VirtualBox snapshot was
 This snapshot serves as the baseline state of the lab. It allows the VM to be quickly restored if future experiments modify or disrupt the system configuration.
 
 ---
+
+## 🔍 Lab Verification
+
+| Check                 | Command                     | Expected Result       |
+| --------------------- | --------------------------- | --------------------- |
+| 📌 IP Check           | `ip a`                      | Correct Kali IP shown |
+| 🚪 Gateway Check      | `ping 10.0.0.3`             | Replies received      |
+| 📡 Connectivity Check | `ping 8.8.8.8`              | Internet reachable    |
+| 🗂️ DNS Check         | `nslookup networkwalks.com` | Domain resolved       |
+| 🔧 Nmap Check         | `nmap --version`            | Nmap version shown    |
+| 🔄 Snapshot Check     | Restore → `ip a`            | Baseline restored     |
+
+**Result:** ✅ All verification checks passed successfully.
+
+### Example Results
+
+```
+IP Address:
+10.0.0.2/24
+
+Gateway:
+10.0.0.1
+
+DNS:
+8.8.8.8
+```
+---
