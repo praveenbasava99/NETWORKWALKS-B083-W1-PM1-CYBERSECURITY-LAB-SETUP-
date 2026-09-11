@@ -223,10 +223,12 @@ Improved my ability to document technical configurations, testing procedures, is
 
 ## 🔗 Tools & Resources
 
-- **7-Zip**
+- **7-Zip** -
 https://7-zip.org/download.html
-- **VirtualBox:** https://virtualbox.org/wiki/Downloads
-- **Kali Linux:** https://kali.org/get-kali
+- **VirtualBox:** -
+https://virtualbox.org/wiki/Downloads
+- **Kali Linux:** - 
+https://kali.org/get-kali
 
 ---
 
