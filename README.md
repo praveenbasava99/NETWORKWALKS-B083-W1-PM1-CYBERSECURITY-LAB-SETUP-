@@ -60,4 +60,31 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 
 ## ⚙️ Lab Architecture
 **The lab runs on Ubuntu Linux as the host operating system, with VirtualBox providing the virtualization platform. Kali Linux is deployed as a virtual machine and connected to a dedicated NAT Network for isolated and controlled cybersecurity testing.**
-<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="" />
+<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/1-Screenshot-VB-environment.png" />
+*Additional target machines can be added to the same **virtual network** in future projects, enabling more advanced cybersecurity testing and lab exercises.*
+
+---
+
+## 🛠️ Lab Configuration
+
+| 🧩 Component | ⚙️ Configuration |
+|---|---|
+| 🖥️ Host OS       | Ubuntu 26.04 |
+| 💾 Host RAM      | 6 GB |
+| ⚡ Processor      | Intel(R) Core(TM) |
+| 📦 Hypervisor     | VirtualBox 7.2.16 |
+| 🐉 Security OS   | Kali Linux 2026.2 |
+| 💾 Kali RAM       | 2048 MB |
+| 🌐 Virtual Network | NAT Network |
+| 📡 Network Range  | 10.0.0.0/24 |
+| 🐉 Kali IP        | 10.0.0.3/24 |
+| 🚪 Default Gateway | 10.0.0.1 |
+| 🌍 DNS Server     | 8.8.8.8 |
+| 🔮 Future VM Range | 10.0.0.4–10.0.0.99 |
+
+---
+
+## 🎞️ Lab Setup Procedure
+### Step 1: Install VirtualBox
+
+Oracle VirtualBox was installed and configured as the hypervisor for the cybersecurity lab environment. VirtualBox provides the required virtualization platform for creating and managing multiple virtual machines.
