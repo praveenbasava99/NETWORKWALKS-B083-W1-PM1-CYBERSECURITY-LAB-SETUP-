@@ -170,6 +170,8 @@ This snapshot serves as the baseline state of the lab. It allows the VM to be qu
 
 **Result:** ✅ All verification checks passed successfully.
 
+<img width="1920" height="1080" alt="Kali Linux Network Settings" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/5.png?raw=true" />
+
 ### Example Results
 
 ```
