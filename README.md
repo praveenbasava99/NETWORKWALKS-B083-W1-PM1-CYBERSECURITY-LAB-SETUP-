@@ -60,7 +60,7 @@ This project involves setting up a virtual cybersecurity and penetration-testing
 
 ## ⚙️ Lab Architecture
 **The lab runs on Ubuntu Linux as the host operating system, with VirtualBox providing the virtualization platform. Kali Linux is deployed as a virtual machine and connected to a dedicated NAT Network for isolated and controlled cybersecurity testing.**
-<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/1-Screenshot-VB-environment.png" />
+<img width="1920" height="1079" alt="1-Screenshot-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/1-Screenshot-VB-environment.png" />
 *Additional target machines can be added to the same **virtual network** in future projects, enabling more advanced cybersecurity testing and lab exercises.*
 
 ---
@@ -105,7 +105,7 @@ Oracle VirtualBox
 | DHCP | Enabled |
 | IPv6 |	Disabled |
 
-<img width="1920" height="1079" alt="1-Screenshot-VB-environment" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/5916e9911d3d95da72d72ed3981569991d2632a3/2-Screenshot-network-settings.png"
+<img width="1920" height="1079" alt="2-Screenshot-network-setting" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/5916e9911d3d95da72d72ed3981569991d2632a3/2-Screenshot-network-settings.png"
 />
 
 *🌐 The NAT Network provides a shared virtual network in which the lab machines can communicate with each other. This creates the foundation for deploying and testing attacker and target systems in an isolated cybersecurity lab environment.*
@@ -126,4 +126,10 @@ Oracle VirtualBox
 The VM was allocated: 
 RAM: 2048 MB
 
+<img width="1920" height="1079" alt="3-Screenshot-kali-linux" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/3-Screenshot-kali-linux.png?raw=true" />
+
 *A shared folder was enabled to allow convenient file exchange between the host system and the Kali Linux VM.*
+
+---
+
+### 5
