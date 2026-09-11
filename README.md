@@ -141,8 +141,8 @@ RAM: 2048 MB
 | Gateway:       10.0.0.1 |
 | DNS:           8.8.8.8 |
 
-<img width="1920" height="1080" alt="Kali Linux Network Settings" src="" />
+<img width="1920" height="1080" alt="Kali Linux Network Settings" src="https://github.com/praveenbasava99/NETWORKWALKS-B083-W1-PM1-CYBERSECURITY-LAB-SETUP-/blob/main/4-Screenshot-kali-linux.png?raw=true" />
 
-Using a consistent IP address simplifies network configuration and makes the Kali Linux machine easier to reference during future lab exercises.
+*Using a consistent IP address simplifies network configuration and makes the Kali Linux machine easier to reference during future lab exercises.*
 
 ---
